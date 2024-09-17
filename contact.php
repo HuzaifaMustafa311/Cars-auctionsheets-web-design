@@ -14,6 +14,7 @@
 								<ul class="list-unstyled cbbPageList text-capitalize d-flex align-items-center justify-content-center flex-wrap mb-0 p-0">
 									<li><a href="index.html">Home</a></li>
 									<li>Contact</li>
+									<!-- <li>Contact</li> -->
 								</ul>
 							</div>
 						</div>
